@@ -19,8 +19,8 @@ for num in 1..100 do
 		puts "Minds"
 
 # If none of conditional were the case, just print the number
-    else
-    	puts num
+    	else
+    		puts num
 	end
 end
 
