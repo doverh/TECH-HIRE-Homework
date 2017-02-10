@@ -38,37 +38,12 @@ while response = gets.chomp
  end
 
 end
-	puts "How many values?"
-num_of_values = gets.to_i
-
+puts "How many values?"
+num_of_elements = gets.to_i
 answer = get_values(num_of_elements).inject(operator)
 puts "The answer is... #{ answer }"
 
 end
 
 
-
-# def addition(num1, num2)
-# 	return num1 + num2
-# end
-
-
-# def interface()
-# 	puts "Insert a number: "
-# 	num1 = gets.chomp.to_i
-# 	puts "Choose an opperation: +, -, * , /, **(for exponent) or sq for squareroot"
-
-# 	operation = gets.chomp
-# 	while operation != "+" || "-" || "*" || "/" || "**" || "sq"
-		
-# 		puts "Choose an opperation: +, -, * , / , ** (for exponent) or sq for squareroot"
-# 			operation = gets.chomp
-# 	end
-
-# 	puts "insert another number: "
-# 	num2 = gets.chomp.to_i
-
-# 	return calculation(num1, operation, num2)
-
-# end
-
+calculate()
