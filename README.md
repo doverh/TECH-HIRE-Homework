@@ -4,7 +4,7 @@ This repository stores the assignments given as homework for the TECH HIRE bootc
 
 Introduction
 
-    Read more about TECH HIRE here [a link](http://pittsburghpa.gov/mayor/techhirepgh/index.html)
+    Read more about TECH HIRE <a href="http://pittsburghpa.gov/mayor/techhirepgh/index.html">here</a>
 
 Getting Started
 
