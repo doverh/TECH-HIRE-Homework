@@ -8,7 +8,7 @@ Introduction
    
 Getting Started
 
-    1. Add Ruby to your computer - https://www.ruby-lang.org/en/downloads/ .
-    2. Clone this repository.
-    3. Run the file with command: ruby "file.rb" 
+   1 . Make sure you have Ruby on your computer https://www.ruby-lang.org/en/downloads/ 
+   2. Clone this repository.
+   3. Run the file with command: ruby "file.rb" 
 
